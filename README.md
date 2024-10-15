@@ -1,2 +1,1 @@
-# shadowrocket-loon-clash-
-shadowrocket/loon/clash 等工具的配置文件
+主要在摸鱼配置上进行更改，结合了柯丽的loon配置其中的规则
